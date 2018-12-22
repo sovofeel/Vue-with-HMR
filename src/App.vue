@@ -1,5 +1,3 @@
 <template>
-  <div class="app">
-    <h1>Hello</h1>
-  </div>
+  <h1>Hello</h1>
 </template>
