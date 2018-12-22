@@ -1,7 +1,7 @@
 {
-  "name": "vue-loader-hmr",
+  "name": "vue with HMR",
   "version": "1.0.0",
-  "description": "vue-loader HMR",
+  "description": "vue with HMR",
   "author": "Arseniy Lobastov",
   "license": "ISC",
   "scripts": {
